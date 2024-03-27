@@ -59,8 +59,7 @@
 * ORM (JPA, Hibernate)
 * MySQL
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Meegera&repo=CargoTransportation_spring_app&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Meegera&repo=CargoTransportation_spring_app&theme=catppuccin_latte)](https://github.com/Meegera/CargoTransportation_spring_app)
 
 <!--
 **Meegera/Meegera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
